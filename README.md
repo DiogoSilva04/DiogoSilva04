@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Student at ISEL;
+Love to surf, watch movies, cars and bikes.
+
 <!--
 **DiogoSilva04/DiogoSilva04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
